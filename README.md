@@ -37,5 +37,5 @@ printf("\n");
 <h1>Adding Taskbox</h1>
 
 - [x] complete all four section
-- [ ] book reading
+- [x] book reading
 - [ ] bath
